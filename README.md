@@ -1,5 +1,5 @@
-# UbuntuOnIntelAtom
- A script that help to create Ubuntu ISOs for baytrail and cherrytrail Intel.
+# MintOnAtom
+ A script that create Linux Mint ISOs for baytrail and cherrytrail Intel.
 
 # how to use it?
     sudo apt install p7zip-full bc klibc-utils iproute2 genisoimage dosfstools git wget squashfs-tools rsync unzip wget findutils xorriso bsdutils zstd -y
@@ -17,7 +17,7 @@
     
 # What can it do?
     - able to setup on it own (if you haven't done anything wrong)
-    - download Ubuntu iso
+    - download Linux mint iso
     
 # Why I make it?
     Why not.
