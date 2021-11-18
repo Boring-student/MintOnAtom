@@ -3,7 +3,9 @@
 
 # how to use it?
     sudo apt install p7zip-full bc klibc-utils iproute2 genisoimage dosfstools git wget squashfs-tools rsync unzip wget findutils xorriso bsdutils -y
-    git clone 
+    git clone https://github.com/bestgamer2050/UbuntuOnIntelAtom.git
+    sudo chmod 755 UbuntuOnIntelAtom.sh
+    ./UbuntuOnIntelAtom.sh
     
 
 # Known issues
